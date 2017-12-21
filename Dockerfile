@@ -1,3 +1,3 @@
-FROM whatever:latest 
 COPY /src
+FROM whatever:latest 
 MAINTAINER Armand Likrama (armandlikramawork@gmail.com)
